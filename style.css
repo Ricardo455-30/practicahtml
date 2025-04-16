@@ -1,0 +1,10 @@
+
+.redes{
+    margin: 20px;
+    display: flex;
+}
+
+
+.redes div{
+    margin: auto;
+}
