@@ -1,10 +1,126 @@
 
-.redes{
-    margin: 20px;
-    display: flex;
+/* Diseño de hobbies */
+
+
+#j1{
+    background: red;
+    color: white;
+    border: black 2px solid;
+    text-decoration: none;
+}
+
+#j2{
+    background: red;
+    color: black;
+    border: black 2px solid;
+    text-decoration: none;
+    
+
+}
+
+#j3{
+    background: red;
+    color: white;
+    border: black 2px solid;
+    text-decoration: none;
+}
+
+#j4{
+    background: red;
+    color: white;
+    border: black 2px solid;
+    text-decoration: none;
+}
+
+.img {
+  display: block;
+  margin: 20px auto;
+  width: 100px;
+  height: auto;
+}
+
+/* Botones de contacto */
+.boton1{
+    background: none;
+    border: none;
+}
+.boton2{
+    background: none;
+    border: none;
+}
+.boton3{
+    background: none;
+    border: none;
 }
 
 
-.redes div{
-    margin: auto;
+/* Desde aqui se configura el formulario*/
+#f {
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+font-size:  30px;
+
+}
+.formulario {
+  border: 2px solid rgb(202, 14, 14);
+  margin-top: 30px;
+  
+}
+
+#nombre {
+  width: 90%;
+  padding: 10px;
+  margin: 5px 0 20px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+#apellido {
+  width: 90%;
+  padding: 10px;
+  margin: 5px 0 20px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+#email {
+  width: 90%;
+  padding: 10px;
+  margin: 5px 0 20px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+#tarea {
+  width: 90%;
+  padding: 10px;
+  margin: 5px 0 20px 0;
+  border: none;
+  background: #f1f1f1;
+}
+
+#Enviar {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#Limpiar {
+  clear: default;
+  font-family: "Times New Roman", Times, serif;
+ 
+}
+
+
+.f{
+  margin-top: 50px;
+  background: #f1f1f1;
+  padding: 20px;
+}
+
+.opciones {
+  width: 90%;
+  padding: 10px;
+  margin: 5px 0 20px 0;
+  border: none;
+  background: #f1f1f1;
 }
